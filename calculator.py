@@ -4,9 +4,10 @@ calculator.py
 
 One function per operation, in order.
 """
+#calc
 import math
 # First example
-def add(a, b): 
+def add(a, b):
     return a + b
 def subtract(a, b):
     return a - b
